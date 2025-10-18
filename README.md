@@ -1,16 +1,20 @@
-## Hi there 👋
+# Emilie Géhin
 
-<!--
-**EmGehin/EmGehin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** 🧬 Engineering Student in Bio-informatics and Bio-statistics 🧬 **
 
-Here are some ideas to get you started:
+I am a 5th Year student at INP-AgroToulouse pursuing a shared specialisation in 
+bioinformatics and biostatistics with INSA Toulouse. My education and experiences
+allowed me to develop a solid understanding of multi-omics methods and essential
+statiscal analysis for biology. Currently learning Linux, Python and sed and awk
+languages, my knowledge in R and curiosity of experimenting with tools helped me
+lead several project in different sectors: ecology, agronomy and evolution biology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Toolbox 🧰
+<img align="left" alt="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+
